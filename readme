@@ -1,0 +1,9 @@
+# Docker Onboarding Assignment
+
+This project demonstrates a simple Docker container running a Node.js script.
+
+## How to build
+docker build -t docker-onboarding-app .
+
+## How to run
+docker run docker-onboarding-app
